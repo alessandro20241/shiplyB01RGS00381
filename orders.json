@@ -1,7 +1,7 @@
 {
   "B01RGS00381": {
-    "status": "Warten auf Zahlung",
-    "statusClass": "pending",
+    "status": "Versandvorbereitung",
+    "statusClass": "→ 65% Shiply blue bar",
     "sender": "Victor Dieter, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Weber Yves, Oberstwies 39, 66663 Merzig-Harlingen, Deutschland",
     "price": "10.900 €",
